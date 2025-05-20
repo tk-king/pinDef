@@ -1,0 +1,23 @@
+- label: Sensor
+  children:
+    - label: Mems Microphone
+    - label: Motion
+      children:
+        - Accelerometer
+        - Gyroscope
+        - IMU
+        - Distance Sensor
+        - Inclinometer
+    - label: Pressure
+    - label: Proximity
+    - label: Biometric Sensor
+    - label: Current Sensor
+    - label: Capacitive Touch Sensor
+    - label: Environmental Sensor
+    - label: Flow Sensor
+    - label: Magnetic Sensor
+    - label: Optical Sensor
+- label: Ics
+  children:
+    - Active Filters
+    - Amplifier ICs

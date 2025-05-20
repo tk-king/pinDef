@@ -1,0 +1,1902 @@
+[
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "SDO/SA0",
+            "description": "SPI serial data output (SDO) / I\u00b2C less significant bit of the device address (SA0)"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "SDO SA0",
+            "description": "SPI serial data output (SDO)\nI2C less significant bit of the device address (SA0)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 0
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "SDO/SA0",
+            "description": "SPI serial data output (SDO) / I\u00b2C less significant bit of the device address (SA0)"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "SDO SA0",
+            "description": "SPI serial data output (SDO)\nI2C less significant bit of the device address (SA0)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 1
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "OSCinP",
+            "description": "Reference input clock (+). High-impedance self-biasing pin. Requires AC-coupling capacitor. (0.1 \u00b5F recommended)"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "OSCinP",
+            "description": "Reference input clock (+). High-impedance self-biasing pin. Requires AC-coupling capacitor. (0.1 \u03bcF recommended)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 2
+    },
+    {
+        "llm_pins": {
+            "number": "9",
+            "name": "DIO2",
+            "description": "Configurable Digital Input/Output."
+        },
+        "human_pin": {
+            "number": "9",
+            "name": "DIO2",
+            "description": "Configurable Digital Input/Output."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 3
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 4
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "DATA OUT",
+            "description": "Serial data output pin"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "DATA OUT",
+            "description": "Serial data output pin"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 5
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "INT",
+            "description": "INT output"
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "INT",
+            "description": "INT output"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 6
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "SDO/SA0",
+            "description": "SPI 4-wire interface serial data output (SDO) I\u00b2C least significant bit of the device address (SA0)"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "SDO/SA0",
+            "description": "SPI 4-wire interface serial data output (SDO), I2C least significant bit of the device address (SA0)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 7
+    },
+    {
+        "llm_pins": {
+            "number": "13",
+            "name": "FAULT",
+            "description": "Overcurrent Fault output. Open drain."
+        },
+        "human_pin": {
+            "number": "13",
+            "name": "FAULT",
+            "description": "Overcurrent Fault output. Open drain."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 8
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "VCC2",
+            "description": "IO Power supply terminal"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "VCC2",
+            "description": "IO Power supply terminal"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 9
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "Reserved",
+            "description": "Reserved. Can be left unconnected, or connected to GND."
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "Reserved",
+            "description": "Reserved. Can be left unconnected, or connected to GND."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 10
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "NCS",
+            "description": "Not-Chip-Select (active-low)"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "NCS",
+            "description": "Not-Chip-Select (active-low)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 11
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "CLKIN",
+            "description": "Controller Clock input. Tie this pin to GND if internal oscillator is selected"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "CLKIN",
+            "description": "Master Clock input. Tie this pin to GND if internal oscillator is selected"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 12
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "DIO1",
+            "description": "Configurable Digital Input/Output."
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "DIO1",
+            "description": "Configurable Digital Input/Output."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 13
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "C1",
+            "description": "Capacitor connection (C1 = 220 nF)"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "C1",
+            "description": "Capacitor connection (C1 = 220 nF)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 14
+    },
+    {
+        "llm_pins": {
+            "number": "12",
+            "name": "VDD",
+            "description": "Positive supply voltage (VDD)"
+        },
+        "human_pin": {
+            "number": "12",
+            "name": "VDD",
+            "description": "Positive supply voltage (VDD)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 15
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "SCL",
+            "description": "I\u00b2C serial clock input"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "SCL",
+            "description": "I\u00b2C serial clock input"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 16
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "RES(VDD)",
+            "description": "Reserved pin (connect to VDD)"
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "RES (VDD)",
+            "description": "Reserved pin (connect to VDD)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 17
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 18
+    },
+    {
+        "llm_pins": {
+            "number": "12",
+            "name": "INT3",
+            "description": "Interrupt pin 3 (gyro int #1)"
+        },
+        "human_pin": {
+            "number": "12",
+            "name": "INT3",
+            "description": "Interrupt pin 3 (gyro int #1)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 19
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "VCC",
+            "description": "Power supply"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "VCC",
+            "description": "Power supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 20
+    },
+    {
+        "llm_pins": {
+            "number": "9",
+            "name": "SDA",
+            "description": "Digital input/output. I\u00b2C serial data"
+        },
+        "human_pin": {
+            "number": "9",
+            "name": "SDA",
+            "description": "I2C serial data"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 21
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "RESV",
+            "description": "No Connect or Connect to GND"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "RESV",
+            "description": "No Connect or Connect to GND"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 22
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 23
+    },
+    {
+        "llm_pins": {
+            "number": "6",
+            "name": "NC",
+            "description": "Connect to Vdd_IO or GND or leave unconnected"
+        },
+        "human_pin": {
+            "number": "6",
+            "name": "NC",
+            "description": "Connect to VDD_IO or GND or leave unconnected"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 24
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "SCLK",
+            "description": "SPI Communication Clock. Tied low for I\u00b2C."
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "SCLK",
+            "description": "SPI Communication Clock. Tied low for I2C."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 25
+    },
+    {
+        "llm_pins": {
+            "number": "C7",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "human_pin": {
+            "number": "C7",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 26
+    },
+    {
+        "llm_pins": {
+            "number": "27",
+            "name": "RESERVED",
+            "description": "Factory used only, leave floating"
+        },
+        "human_pin": {
+            "number": "27",
+            "name": "RESERVED",
+            "description": "Factory used only, leave floating"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 27
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "INT1",
+            "description": "Programmable interrupt in I\u00b2C and SPI"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "INT1",
+            "description": "Programmable interrupt in I2C and SPI"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 28
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "GND",
+            "description": "Connect to GND"
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "GND",
+            "description": "Connect to GND"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 29
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "RESV",
+            "description": "No Connect or Connect to GND"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "RESV",
+            "description": "No Connect or Connect to GND"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 30
+    },
+    {
+        "llm_pins": {
+            "number": "12",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "human_pin": {
+            "number": "12",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 31
+    },
+    {
+        "llm_pins": {
+            "number": "16",
+            "name": "GND",
+            "description": "Power Ground"
+        },
+        "human_pin": {
+            "number": "16",
+            "name": "GND",
+            "description": "Power Ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 32
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 33
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "WCLK",
+            "description": "Audio serial data bus word clock input/output"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "WCLK",
+            "description": "Audio serial data bus word clock input/output"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 34
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "RESV",
+            "description": "Reserved. Do not connect."
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "RESV",
+            "description": "Reserved. Do not connect."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 35
+    },
+    {
+        "llm_pins": {
+            "number": "24",
+            "name": "MISO",
+            "description": "Master Input Slave Output signal"
+        },
+        "human_pin": {
+            "number": "24",
+            "name": "MISO",
+            "description": "Master Input Slave Output signal"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 36
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "SDA",
+            "description": "Serial data input/output pin"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "SDA",
+            "description": "Serial data"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 37
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "Vdd_IO",
+            "description": "Power supply for I/O pins"
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "VDD_IO",
+            "description": "Power supply for I/O pins"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 38
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "RESV",
+            "description": "Reserved. Connect to GND."
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "RESV",
+            "description": "Reserved. Connect to GND."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 39
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "DIN_SDA",
+            "description": "SPI data In"
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "DIN_SDA",
+            "description": "SPI data In\nI2C serial data input/output"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 40
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 41
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "VDD_IO",
+            "description": "Power supply for I/O pins (recommended 100 nF filter capacitor)"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "VDD_IO",
+            "description": "Power supply for I/O pins (recommended 100 nF filter capacitor)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 42
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "VDD",
+            "description": "Supply Pin"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "VDD",
+            "description": "Supply Pin"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 43
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "HEAT",
+            "description": "Heat sink connection, connect to AVSS_G."
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "HEAT",
+            "description": "Heat sink connection, connect to AVSS_G."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 44
+    },
+    {
+        "llm_pins": {
+            "number": "9",
+            "name": "INT2",
+            "description": "Programmable interrupt 2 (INT2) / data enabled (DEN)"
+        },
+        "human_pin": {
+            "number": "9",
+            "name": "INT2",
+            "description": "Programmable interrupt 2 (INT2) / data enabled (DEN)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 45
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "SDI",
+            "description": "Serial Data In"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "SDI",
+            "description": "Serial Data In"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 46
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "SDO/SA0",
+            "description": "SPI serial data output (SDO) / I\u00b2C less significant bit of the device address (SA0)"
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "SDO/SA0",
+            "description": "SPI serial data output (SDO), I2C less significant bit of the device address (SA0)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 47
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "ADDR",
+            "description": "I\u00b2C Device Address Pin. For device addresses 0x44 and 0x45, ADDR1 voltage must be GND. 0x44 requires ADDR voltage to be GND. 0x45 requires ADDR voltage to be VDD. Can not be left floating."
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "ADDR",
+            "description": "I2C Device Address Pin.\nFor device addresses 0x44 and 0x45, ADDR1 voltage must be GND.\n0x44 requires ADDR voltage to be GND.\n0x45 requires ADDR voltage to be VDD.\nCan not be left floating."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 48
+    },
+    {
+        "llm_pins": {
+            "number": "14",
+            "name": "AVDD",
+            "description": "Analog Supply voltage"
+        },
+        "human_pin": {
+            "number": "14",
+            "name": "AVDD",
+            "description": "Analog Supply voltage"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 49
+    },
+    {
+        "llm_pins": {
+            "number": "23",
+            "name": "RFoutAP",
+            "description": "Differential output A (+). Requires connecting a 50-\u03a9 resistor pullup to Vcc as close to the pin as possible."
+        },
+        "human_pin": {
+            "number": "23",
+            "name": "RFoutAP",
+            "description": "Differential output A (+). Requires connecting a 50-\u03a9 resistor pullup to Vcc as close to the pin as possible."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 50
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "SCL SPC",
+            "description": "I\u00b2C serial clock (SCL) SPI serial port clock (SPC)"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "SCL/SPC",
+            "description": "I2C serial clock (SCL), SPI serial port clock (SPC)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 51
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "CLOCK/V_PROG",
+            "description": "External clock for communication/programming voltage"
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "CLOCK / VPROG",
+            "description": "External clock for communication / programming voltage"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 52
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "VDD",
+            "description": "Positive supply voltage"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "VDD",
+            "description": "Positive supply voltage (VDD)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 53
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "GND2",
+            "description": "To be connected to main ground"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "GND2",
+            "description": "To be connected to the main ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 54
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "SCLK",
+            "description": "SPI CLK"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "SCLK",
+            "description": "SPI CLK"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 55
+    },
+    {
+        "llm_pins": {
+            "number": "6",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "human_pin": {
+            "number": "6",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 56
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "Green 1",
+            "description": "Green LED 1 Anode"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "Green 1",
+            "description": "Green LED 1 Anode"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 57
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "SDO",
+            "description": "Serial data output in SPI Address select in I2C mode"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "SDO",
+            "description": "Serial data output in SPI. Address select in I2C mode"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 58
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "CS",
+            "description": "SPI Chip Select. Active low."
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "CS",
+            "description": "SPI Chip Select. Active low."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 59
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "TI/EXTRESN",
+            "description": "Optional external Reset, 3.3V logic compatible Schmitt-trigger input with internal pull-up, LOW-HIGH transition causes system restart. Minimum low time 100us."
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "TI/EXTRESN",
+            "description": "Optional external Reset, 3.3V logic compatible Schmitt-trigger input with\ninternal pull-up, LOW-HIGH transition causes system restart. Minimum\nlow time 100us."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 60
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "Vdd",
+            "description": "Power supply"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "VDD",
+            "description": "Power supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 61
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "VDD",
+            "description": "Power. This pin is connected to power on the circuit board."
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "VDD",
+            "description": "Power. This pin is connected to power on the circuit board."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 62
+    },
+    {
+        "llm_pins": {
+            "number": "18",
+            "name": "SCLK",
+            "description": "Serial clock for the SPI interface"
+        },
+        "human_pin": {
+            "number": "18",
+            "name": "SCLK",
+            "description": "Serial clock for the SPI interface"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 63
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "GND",
+            "description": "GND"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 64
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "VDDIO(1)",
+            "description": "Power supply for I/O pins"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "VDDIO",
+            "description": "Power supply for I/O pins"
+        },
+        "name_correct": false,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": false,
+            "expert_description_correct": true
+        },
+        "index": 65
+    },
+    {
+        "llm_pins": {
+            "number": "12",
+            "name": "NC",
+            "description": "Not Internally Connected. May be used for PCB trace routing."
+        },
+        "human_pin": {
+            "number": "12",
+            "name": "NC",
+            "description": "Not Internally Connected. May be used for PCB trace routing."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 66
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "TDM_SDOUT",
+            "description": "TDM serial data output"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "TDM_SDOUT",
+            "description": "TDM serial data output"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 67
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "GND",
+            "description": "Ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 68
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "PAD2LID",
+            "description": "Pad connection to metal lid"
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "PAD2LID",
+            "description": "Pad connection to metal lid"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 69
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "Vdd",
+            "description": "Power supply"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "Vdd",
+            "description": "Power supply\nRecommended power supply decoupling capacitors (100 nF ceramic in parallel with 10 \u03bcF aluminum)"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 70
+    },
+    {
+        "llm_pins": {
+            "number": "26",
+            "name": "SCL/SCLK",
+            "description": "I\u00b2C Serial Communications Clock/SPI Serial Communications Clock."
+        },
+        "human_pin": {
+            "number": "26",
+            "name": "SCL\nSCLK",
+            "description": "I2C Serial Communications Clock\nSPI Serial Communications Clock."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 71
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "SDA SDI SDO",
+            "description": "I\u00b2C serial data (SDA) SPI serial data input (SDI) 3-wire interface serial data output (SDO)"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "SDA SDI SDO",
+            "description": "I2C serial data (SDA)\nSPI serial data input (SDI)\n3-wire interface serial data output (SDO)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 72
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "CSQ",
+            "description": "SSC Chip Select"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "CSQ",
+            "description": "SSC Chip Select"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 73
+    },
+    {
+        "llm_pins": {
+            "number": "11",
+            "name": "INT2",
+            "description": "Interrupt pin 2"
+        },
+        "human_pin": {
+            "number": "11",
+            "name": "INT2",
+            "description": "Interrupt pin 2"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 74
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "DATA OUT",
+            "description": "Serial data output pin"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "DATA OUT",
+            "description": "Serial data output pin"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 75
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "Vdd_IO",
+            "description": "Power supply for I/O pins"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "VDDIO",
+            "description": "Power supply for I/O pins"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 76
+    },
+    {
+        "llm_pins": {
+            "number": "7",
+            "name": "TDM_MCLK",
+            "description": "TDM master clock"
+        },
+        "human_pin": {
+            "number": "7",
+            "name": "TDM_MCLK",
+            "description": "TDM master clock"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 77
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "NC",
+            "description": "Leave unconnected"
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "NC",
+            "description": "Leave unconnected"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 78
+    },
+    {
+        "llm_pins": {
+            "number": "9",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "human_pin": {
+            "number": "9",
+            "name": "GND",
+            "description": "0 V supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 79
+    },
+    {
+        "llm_pins": {
+            "number": "8",
+            "name": "V_DD",
+            "description": "Supply voltage pin"
+        },
+        "human_pin": {
+            "number": "8",
+            "name": "VDD",
+            "description": "Supply voltage (2.7 V to 5.5 V)"
+        },
+        "name_correct": false,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": false,
+            "expert_description_correct": false
+        },
+        "index": 80
+    },
+    {
+        "llm_pins": {
+            "number": "6",
+            "name": "VDDIO",
+            "description": "Digital IO and Fuser Supply"
+        },
+        "human_pin": {
+            "number": "6",
+            "name": "VDDIO",
+            "description": "Digital IO and Fuser Supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 81
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "VSUP",
+            "description": "Supply Voltage and Programming Pin"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "VSUP",
+            "description": "Supply Voltage and Programming Pin"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 82
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "VDD",
+            "description": "Power Supply"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "VDD",
+            "description": "Power Supply"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 83
+    },
+    {
+        "llm_pins": {
+            "number": "25",
+            "name": "SPKVSS",
+            "description": "Class-D speaker driver power supply ground"
+        },
+        "human_pin": {
+            "number": "25",
+            "name": "SPKVSS",
+            "description": "Class-D speaker driver power supply ground"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 84
+    },
+    {
+        "llm_pins": {
+            "number": "11",
+            "name": "IFA-2",
+            "description": "Connect to GND"
+        },
+        "human_pin": {
+            "number": "11",
+            "name": "IFA-2",
+            "description": "Connect to GND"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 85
+    },
+    {
+        "llm_pins": {
+            "number": "3",
+            "name": "CLOCK",
+            "description": "PDM clock input"
+        },
+        "human_pin": {
+            "number": "3",
+            "name": "CLOCK",
+            "description": "PDM clock input"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 86
+    },
+    {
+        "llm_pins": {
+            "number": "12",
+            "name": "SCL",
+            "description": "Serial Clock Line for I\u00b2C bus"
+        },
+        "human_pin": {
+            "number": "12",
+            "name": "SCL",
+            "description": "Serial Clock Line for I2C bus"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 87
+    },
+    {
+        "llm_pins": {
+            "number": "11",
+            "name": "Reserved",
+            "description": "Connect to GND"
+        },
+        "human_pin": {
+            "number": "11",
+            "name": "Reserved",
+            "description": "Connect to GND"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 88
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "SCK",
+            "description": "Serial clock input"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "SCK",
+            "description": "Serial clock input. SPI 4-Wire: SCK. SPI 3-Wire: SCK. I2C: SCL"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 89
+    },
+    {
+        "llm_pins": {
+            "number": "4",
+            "name": "SCL/SPC",
+            "description": "I\u00b2C serial clock (SCL) / SPI serial port clock (SPC)"
+        },
+        "human_pin": {
+            "number": "4",
+            "name": "SCL/SPC",
+            "description": "I2C serial clock (SCL), SPI serial port clock (SPC)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 90
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "RESV3",
+            "description": "Do not connect (reserved)"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "RESV3",
+            "description": "Do not connect (reserved)"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 91
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "DIN_SDA",
+            "description": "SPI data In"
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "DIN_SDA",
+            "description": "SPI data In I2C serial data input/output"
+        },
+        "name_correct": true,
+        "description_correct": false,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": false
+        },
+        "index": 92
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "GND",
+            "description": "This pin must be connected to ground."
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "GND",
+            "description": "This pin must be connected to ground."
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 93
+    },
+    {
+        "llm_pins": {
+            "number": "18",
+            "name": "M3SDA",
+            "description": "M3 I2C SDA"
+        },
+        "human_pin": {
+            "number": "18",
+            "name": "M3SDA",
+            "description": "M3 I2C SDA"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 94
+    },
+    {
+        "llm_pins": {
+            "number": "2",
+            "name": "Green",
+            "description": "Green LED Anode"
+        },
+        "human_pin": {
+            "number": "2",
+            "name": "Green",
+            "description": "Green LED Anode"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 95
+    },
+    {
+        "llm_pins": {
+            "number": "5",
+            "name": "Green 2",
+            "description": "Green LED 2 Anode"
+        },
+        "human_pin": {
+            "number": "5",
+            "name": "Green 2",
+            "description": "Green LED 2 Anode"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 96
+    },
+    {
+        "llm_pins": {
+            "number": "12",
+            "name": "NC",
+            "description": "Not Connected"
+        },
+        "human_pin": {
+            "number": "12",
+            "name": "NC",
+            "description": "Not Connected"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 97
+    },
+    {
+        "llm_pins": {
+            "number": "1",
+            "name": "MCLK",
+            "description": "Master clock input"
+        },
+        "human_pin": {
+            "number": "1",
+            "name": "MCLK",
+            "description": "Master clock input"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 98
+    },
+    {
+        "llm_pins": {
+            "number": "10",
+            "name": "D_EXTC",
+            "description": "External capacitor connection for digital core"
+        },
+        "human_pin": {
+            "number": "10",
+            "name": "D_EXTC",
+            "description": "External capacitor connection for digital core"
+        },
+        "name_correct": true,
+        "description_correct": true,
+        "expert_grading": {
+            "expert_name_correct": true,
+            "expert_description_correct": true
+        },
+        "index": 99
+    }
+]
